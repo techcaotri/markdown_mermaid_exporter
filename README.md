@@ -1,3 +1,6 @@
+## Markdown Mermaid Exporter
+Javascript application to extract Mermaid diagrams from Markdown files and convert them to PNG images.
+
 ## How to Use the Script
 
 ### Install prerequisites:
